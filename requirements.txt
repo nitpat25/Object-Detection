@@ -1,0 +1,7 @@
+cpython
+pycocotools
+matplotlib
+numpy
+pandas
+seaborn
+scikit-image
